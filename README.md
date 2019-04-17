@@ -1,3 +1,6 @@
+Virtual Environment tf1.11_py27
+
+
 # Graves 2013 experiments
 ## File description
 * model.py: rnnt joint model

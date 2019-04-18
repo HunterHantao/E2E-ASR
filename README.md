@@ -1,4 +1,4 @@
-Virtual Environment tf1.11_py27
+Virtual Environment py3.5_tf2.0
 
 
 # Graves 2013 experiments
